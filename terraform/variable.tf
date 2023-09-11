@@ -10,7 +10,7 @@ default = "t2.micro"
 
 variable "kn" {
 type = string
-default = "project-keypair"
+default = "MY-SGS"
 }
 
 variable "iname" {
