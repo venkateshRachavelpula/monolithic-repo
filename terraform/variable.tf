@@ -10,7 +10,7 @@ default = "t2.micro"
 
 variable "kn" {
 type = string
-default = "TASK-SGS"
+default = "TASK-SG"
 }
 
 variable "iname" {
