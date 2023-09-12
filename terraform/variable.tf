@@ -10,7 +10,7 @@ default = "t2.micro"
 
 variable "kn" {
 type = string
-default = "MY-SGS"
+default = "venkat"
 }
 
 variable "iname" {
