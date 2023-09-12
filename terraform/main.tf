@@ -9,7 +9,7 @@ Name = var.iname
 Environment = "dev"
 }
 root_block_device {
-volume_size = 20
+volume_size = 12
 }
 }
 
